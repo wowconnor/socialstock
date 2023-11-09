@@ -1,3 +1,3 @@
 Date: 11/09/2023
-  Today, Myself, Connor Marks, in collaboration with Christian Park, have begun the storyboard for a financial app that brings together the functionality of the stock selection, trade making and profit/loss tracking 
+  Today, Myself, Connor Marks, in collaboration with Christian Park, have begun the storyboard for a financial app that brings together the functionality of stock selection, trade making and profit/loss tracking 
   with the social media presence of reddit or like-minded casual sharing websites. This document will serve as the record kept on the subject of that apps development thoughout its entire life cycle.
