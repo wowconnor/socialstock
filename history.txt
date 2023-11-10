@@ -3,3 +3,6 @@ Date: 11/09/2023
   the functionality of stock selection, trade making and profit/loss tracking with the social media presence of reddit or like-minded, casual 
   idea sharing websites. This document will serve as the record kept on the subject of that idea and application's development thoughout its 
   entire life cycle.
+
+  Chistian made forward movement with hosting the application using django to support what will be our Python backend. I worked on the markdown file
+  which I will continue to do throughout development.
