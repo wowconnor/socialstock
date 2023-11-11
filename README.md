@@ -8,15 +8,29 @@ The application allows users to create stock portfolios that they can then share
 &emsp;It is a known fact that the stock market follows human behavioral trends, amongst other things. This allows for social media and blog posting websites to have a strong influence on the market and as such the value of a stock. We believe this same influence can be applied to an entire portfolio of stocks. It is our goal to gather the information of the stock in depth AND generate the ability to create the portfolio AND provide the opportunity to share one's thoughts or one's research on the details of an individual stock or portfolio all into one place. We believe this shared space will allow experts to discuss the nuance of trading and for beginners to learn from the interactions of experts. This application will act as a place to learn, share and experiment.
 
 ## The Features:
-  This application hosts a few primary features:\
-&emsp;(1) Portfolio Creation\
-&emsp;&emsp;> Users will be able to build Stock portfolios using the latest stock market APIs.\
-&emsp;&emsp;> Portfolios will automatically tally the price of investment.\
-&emsp;&emsp;> Portfolios can either be listed as verified (owned by the creator) or simply hypothetical.\
-&emsp;&emsp;> Once built, a stock portfolios are shared into a social media setting.\
-&emsp;(2) Collaborative Investing\
-&emsp;&emsp;> Users will be alerted of the similarity rating of their portfolios to others that have been created.\
-&emsp;&emsp;> Users will be able to comment, like, subscribe among other relation actions with other users.\
-&emsp;&emsp;> A leaderboard of stock portfolios will be displayed in the application.\
-&emsp;&emsp;&emsp;> These will be the most popular and agreed upon portfolios for financial success.\
-&emsp;(3) ...
+  This application hosts four primary features:\
+&emsp;(1) Stock Browsing\
+&emsp;&emsp; - Dedicated stock browser and bookmarking system.\
+&emsp;&emsp; - Price, graphs, information for any stock.\
+&emsp;&emsp; - The option to add to one's portfolio.\
+&emsp;(2) Portfolio Creation\
+&emsp;&emsp; - Users will be able to build Stock portfolios using the latest stock market APIs.\
+&emsp;&emsp; - Portfolios will automatically tally the price of investment.\
+&emsp;&emsp; - Portfolios can either be listed as verified (owned by the creator) or simply hypothetical.\
+&emsp;&emsp; - Once built, stock portfolios can shared into a social setting for other users to view.\
+&emsp;&emsp;(2.1) Random Portfolio Generation\
+&emsp;&emsp;&emsp; - Given a budget, a random stock portfolio can be generated.\
+&emsp;&emsp;&emsp; - Users can filter from different equity sectors, price points, and other stock properties.\
+&emsp;(3) Collaborative Investing\
+&emsp;&emsp; - Users will be alerted of the similarity rating of their portfolios to others that have been created.\
+&emsp;&emsp; - Users will be able to comment, like, subscribe among other relation actions with other users.\
+&emsp;&emsp; - A leaderboard of stock portfolios will be displayed in the application.\
+&emsp;&emsp; - These will be the most popular and agreed upon portfolios for financial success.\
+&emsp;&emsp;(3.1) Stock Prediciton\
+&emsp;&emsp;&emsp; - Bullish / Bearish voting system for individual stocks in the browser.\
+&emsp;&emsp;(3.2) Credibility (karma system/net worth)\
+&emsp;&emsp;&emsp; - Weight is added to the stock predictions of individual users when correct.\
+&emsp;&emsp;&emsp;
+&emsp;(4) Portfolio Ranking System
+&emsp;&emsp; - There will be a global leaderboard for users with highest 'Net Worth' rank.\
+&emsp;&emsp; - There will be a multitude of leaderboards for sectors, budgets and timelines.\
