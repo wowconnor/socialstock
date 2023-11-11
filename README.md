@@ -30,7 +30,6 @@ The application allows users to create stock portfolios that they can then share
 &emsp;&emsp;&emsp; - Bullish / Bearish voting system for individual stocks in the browser.\
 &emsp;&emsp;(3.2) Credibility (karma system/net worth)\
 &emsp;&emsp;&emsp; - Weight is added to the stock predictions of individual users when correct.\
-&emsp;&emsp;&emsp;
-&emsp;(4) Portfolio Ranking System
+&emsp;(4) Portfolio Ranking System\
 &emsp;&emsp; - There will be a global leaderboard for users with highest 'Net Worth' rank.\
 &emsp;&emsp; - There will be a multitude of leaderboards for sectors, budgets and timelines.\
