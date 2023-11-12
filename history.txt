@@ -6,3 +6,11 @@ Date: 11/09/2023
 
   Chistian made forward movement with hosting the application using django to support what will be our Python backend. I worked on the markdown file
   which I will continue to do throughout development.
+
+Date: 11/11/2023
+  Christian creates proposal to use yfinance api in order to retrieve stock data:
+  Sources can be found here. https://pypi.org/project/yfinance/ 
+    - Using the Public API (without authentication), you are limited to 2,000 requests per hour per IP (or up to a total of 48,000 requests a day)
+
+  Potential Data Visualization method: Cufflinks/Pandas? https://plotly.com/python/candlestick-charts/
+    
